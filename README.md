@@ -59,7 +59,7 @@ Other Tools: RabbitMQ · CI/CD · Agile Development
 
 ---
 
-## 📊 GitHub Analytics  
+[## 📊 GitHub Analytics  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nurullahgd&show_icons=true&theme=radical" alt="GitHub stats" height="180"/>
@@ -72,7 +72,7 @@ Other Tools: RabbitMQ · CI/CD · Agile Development
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nurullahgd&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
-</p>
+</p>](url)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=nurullahgd&theme=radical&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies" />
