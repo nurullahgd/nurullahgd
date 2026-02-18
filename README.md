@@ -55,7 +55,9 @@ Other Tools: RabbitMQ · CI/CD · Agile Development
 - Database Course with MongoDB *(2022)*  
 - Intersteno Multilingual Text Production with PC *(2019)*  
 - TÜBİTAK 4006 Science Fair Participation *(2019)*  
-- İhsan Yener Turkish Keyboard Championship Award *(2019)*  
+- Ihsan Yener Turkish Keyboard Championship Award *(2019)*
+- Go | Modern Programming with Golang *(2026)*
+- Kubernetes: From Scratch to Advanced(DevOps) *(2026)*  
 
 ---
 
